@@ -1,5 +1,5 @@
 .box1{
-  background: url(images/project\ 1product1.png);
+  background: url(../images/project\ 1product1.png);
   background-size: cover;
   position: relative;
   position: absolute;
@@ -74,7 +74,7 @@
   }
 
   .box2{
-    background: url(images/project\ 2product1.png);
+    background: url(../images/project\ 2product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -118,7 +118,7 @@
   }
 
   .box3{
-    background: url(images/project\ 3product1.png);
+    background: url(../images/project\ 3product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -161,7 +161,7 @@
   }
 
   .box4{
-    background: url(images/project\ 4product1.png);
+    background: url(../images/project\ 4product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -205,7 +205,7 @@
   }
 
   .box5{
-    background: url(images/project\ 5product1.png);
+    background: url(../images/project\ 5product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -249,7 +249,7 @@
   }
 
   .box6{
-    background: url(images/project\ 6product1.png);
+    background: url(../images/project\ 6product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -293,7 +293,7 @@
   }
 
   .box7{
-    background: url(images/project\ 7product1.png);
+    background: url(../images/project\ 7product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -337,7 +337,7 @@
   }
 
   .box8{
-    background: url(images/project\ 8product1.png);
+    background: url(../images/project\ 8product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
@@ -381,7 +381,7 @@
   }
 
   .box9{
-    background: url(images/project\ 9product1.png);
+    background: url(../images/project\ 9product1.png);
     background-size: cover;
     position: relative;
     position: absolute;
