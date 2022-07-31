@@ -108,7 +108,7 @@ border-radius: 20px;
 }
 
 .box1{
-  background: url(images/imgphoto1.png);
+  background: url(../images/imgphoto1.png);
   position: absolute;
   width: 370px;
   height: 294px;
@@ -150,7 +150,7 @@ border-radius: 20px;
 }
 
 .box2{
-  background: url(images/imgphoto2.png);
+  background: url(../images/imgphoto2.png);
   position: absolute;
   width: 370px;
   height: 294px;
@@ -192,7 +192,7 @@ border-radius: 20px;
 }
 
 .box3{
-  background: url(images/imgphoto3.png);
+  background: url(../images/imgphoto3.png);
   position: absolute;
   width: 370px;
   height: 294px;
